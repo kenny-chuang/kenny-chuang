@@ -1,4 +1,4 @@
-# 莊子詣 Kenny Chuang
+# Kenny Chuang
 
 Full-stack Engineer｜Java・Spring Boot・React｜RAG・AI Agent
 
