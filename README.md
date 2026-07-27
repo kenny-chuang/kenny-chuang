@@ -15,11 +15,11 @@ Full-stack Engineer｜Java・Spring Boot・React｜RAG・AI Agent
 
 ## 代表作品
 
-### [E-Invoice Ledger｜發票記帳助手](https://github.com/Kenny0404/einvoice-ledger)
+### [E-Invoice Ledger｜發票記帳助手](https://github.com/kenny-chuang/einvoice-ledger)
 
 將電子發票明細整理成可搜尋、可修正、能比較商品歷史價格的私人記帳工具，並整合 Home Assistant。
 
-### [Bank FAQ RAG｜銀行 FAQ 智慧問答](https://github.com/Kenny0404/bank-faq-rag)
+### [Bank FAQ RAG｜銀行 FAQ 智慧問答](https://github.com/kenny-chuang/bank-faq-rag)
 
 使用 Spring Boot、Ollama、BM25 與 RRF 建置的企業 FAQ 問答原型，支援查詢改寫、SSE 串流與無法回答時的處理機制。
 
