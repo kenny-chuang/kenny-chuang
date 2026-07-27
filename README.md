@@ -27,4 +27,4 @@ Full-stack Engineer｜Java・Spring Boot・React｜RAG・AI Agent
 
 Java・Spring Boot・TypeScript・React・Vue・Python・LangGraph・RAG・MySQL・Oracle・SQL Server
 
-[個人履歷網站](https://kenny-chuang-resume.fact780404.chatgpt.site/) ・ [Email](mailto:Fact780404@gmail.com)
+[個人履歷網站](https://kenny-chuang.github.io/) ・ [Email](mailto:Fact780404@gmail.com)
