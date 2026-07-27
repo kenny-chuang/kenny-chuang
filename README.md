@@ -1,16 +1,16 @@
 # Kenny Chuang
 
-Full-stack Engineer｜Java・Spring Boot・React｜RAG・AI Agent
+AI Application Engineer｜RAG・Agent・Text-to-SQL｜Python・Java
 
-把複雜的業務與生活問題，整理成能長期維護、真正有人願意使用的系統。
+把模型接上企業資料、流程與介面，做成真正能使用、能維護的 AI 系統。
 
-曾從事室內設計 10 年。從空間動線、施工限制到程式流程，一直在做同一件事：理解人的需求，再選擇合適的工具解決問題。
+具近 4 年軟體開發經驗，曾獨立完成企業數據分析 Agent 與銀行 FAQ RAG 系統；Java、全端與企業系統經驗，是我將 AI 功能接進既有環境的工程基礎。
 
 ## 現在主要在做
 
-- 金融、保險與政府領域的 Java 企業系統
-- React / TypeScript 複雜表單與前後端整合
 - RAG、Text-to-SQL 與 Multi-Agent 應用
+- 企業資料、Excel 與本地模型整合
+- Python／Java API 與 React 使用介面
 - ESP32、3D 列印與 Home Assistant 智慧家居
 
 ## 代表作品
@@ -25,6 +25,6 @@ Full-stack Engineer｜Java・Spring Boot・React｜RAG・AI Agent
 
 ## 技術
 
-Java・Spring Boot・TypeScript・React・Vue・Python・LangGraph・RAG・MySQL・Oracle・SQL Server
+Python・FastAPI・LangGraph・RAG・Java・Spring Boot・TypeScript・React・MySQL・Oracle・SQL Server
 
 [個人履歷網站](https://kenny-chuang.github.io/) ・ [Email](mailto:Fact780404@gmail.com)
